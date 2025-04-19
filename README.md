@@ -1,6 +1,6 @@
 # Parameter Optimization for SVM on Liver Disorder Dataset
 
-This repository demonstrates the process of parameter optimization for Support Vector Machine (SVM) models using the **Liver Disorders Dataset** from the BUPA Medical Research Ltd. database. The dataset contains information about blood tests for liver disorders, potentially arising from excessive alcohol consumption.
+This repository presents the approach taken to optimize parameters for Support Vector Machine (SVM) models, utilizing the Liver Disorders Dataset provided by BUPA Medical Research Ltd. This dataset comprises blood test data that may indicate liver issues, often associated with high alcohol consumption.
 
 ## Dataset Overview
 
@@ -15,7 +15,7 @@ The dataset includes information about 345 individuals with 5 features that are 
 
 ## Objective
 
-This project focuses on applying **Support Vector Machine (SVM)** for regression tasks with parameter optimization to predict the alcohol consumption (`drinks`) using blood test results. The goal is to find the optimal parameters that improve the SVM model's performance.
+The purpose of this project is to implement Support Vector Machine (SVM) regression and optimize its parameters to accurately forecast the daily alcohol intake from the blood test features. The key goal is to determine the parameter combinations that deliver the best model performance.
 
 ## Methodology
 - **Data Loading:**
